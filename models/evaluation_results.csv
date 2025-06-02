@@ -1,0 +1,3 @@
+Model,Precision,Recall,Avg Time (s)
+Haar Cascade,0.7871,0.1198,0.0539
+SSD,0.9312,0.3355,0.0329
